@@ -7,3 +7,5 @@ Atari "MidiMate" compat PCB in a direct-plug style like the FujiNet
 
 This is built for a one-time run of PCBs to do a 16 player MidiMaze setup at VCF using physical
 midi cables. We will swap to FujiNet virtual midi network halfway through. 
+
+Created in KiCad. I had to pull in the part for the DIN-5 from an extra library, which I included in this file.
